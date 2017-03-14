@@ -1,0 +1,11 @@
+XaNSoNS is a free open source software with GPU support that simulates 2D and 1D x-ray or neutron diffraction patterns 
+and PDF functions for the ordered or disordered nanoscale structures (up to ten million of atoms).
+
+The software released under GPL v3 license.
+Copyright (C) 2015, NRC "Kurchatov institute", http://www.nrcki.ru/e/engl.html, Moscow, Russia
+Author: Vladislav Neverov
+
+The instructions on how to build and use the software can be found in the user manual (XaNSoNS_user_manual.pdf).
+
+The development of XaNSoNS was made possible thanks to the support of the Russian Foundation for Basic Research 
+(projects RFBR #12-07-00529-a and #15-07-07901-a).
